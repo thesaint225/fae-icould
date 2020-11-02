@@ -93,6 +93,14 @@
   background-color: var(--light-color);
   color: #333;
 }
+
+.bg-primary a,
+.btn-primary a,
+.bg-dark a,
+.btn-dark a {
+  color: #fff;
+}
+
 /* text size */
 .lead {
   font-size: 20px;
@@ -155,7 +163,7 @@
 .my-5 {
   margin: 4rem 0;
 }
-.p {
+.m-1 {
   margin: 1rem;
 }
 .m-2 {
